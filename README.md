@@ -11,7 +11,7 @@
 <body>
     <header>
         <img src="link_https://images.app.goo.gl/5yYwXvLYzHbG9dDE7" alt="Foto Profil">
-        <h1>M.khafi almuzaki</h1>
+        <h1>Antoynezza Rega A.S</h1>
         <h2>Pelajar (SmkN2Lamongan)</h2>
     </header>
     <section>
